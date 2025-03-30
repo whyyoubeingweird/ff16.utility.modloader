@@ -1,4 +1,4 @@
-# ff16.utility.modloader
+# ff16.utility.modloader without the fake ass "non cracked" version requirement implemented by the dumbass creator. you're welcome. 
 
 [Final Fantasy XVI / 16](https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/) Mod loader for [Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II) using [FF16Tools](https://github.com/Nenkai/FF16Tools).
 
